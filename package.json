@@ -1,0 +1,26 @@
+{
+  "name": "directory-css-minify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/jimmyMisa/directory-css-minify.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyMisa/directory-css-minify.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "directory-css-minify": "./bin/directory-css-minify.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.7",
+    "cssnano": "^5.1.12",
+    "postcss": "^8.4.14"
+  },
+  "type": "module"
+}
