@@ -1,6 +1,6 @@
-# Webpack entrypoint shuffle
+# Worderfull package for compressing css file
 
-This module allow to generate unique random shot filename for any of your webpack file listed in entrypoints
+This module allow to reduce the size of css files
 
 ## Installation
 ```
